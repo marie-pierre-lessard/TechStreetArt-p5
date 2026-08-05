@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" type="text/css" href="./style/kaleidoscope.css">
+    <!-- TO DO: CSS files for global footer appear to be missing from repository. Navbar has some styling; see:
+     https://github.com/H1WE080125/TechStreetArt/tree/main/pages/navbar/style  -->
+
+    <script src="./libraries/p5.min.js"></script>
+    <script src="./libraries/p5.sound.min.js"></script>
+    <!-- Maybe TO DO: A contributor library can be added below in its own script element.
+    See for instance the instructions on GitHub of the p5.brush library, found at: 
+    https://p5js.org/libraries/ 
+    Libraries can either be imported locally (downloaded), like the p5 library above, 
+    or be included in the project as a CDN import (a link to an external server). 
+
+    "Content Delivery Network :
+    A CDN is a network of servers distributed across various location that serves content to users from the nearest server available to that user.The content can be HTML pages, Javascript files, images, videos, stylesheets etc."
+    https://tiwari00ayush.hashnode.dev/import-vs-cdn-in-javascript
+    -->
+    <!-- Teacher says that our scripts have to be listed (read by the user agent) last, after the downloaded libraries or CDN imports. 
+    Since P5 is not using ES modules yet, P5 stops working if one adds the attribute type="module".
+    This means that we cannot import an ES module into pages of our section. 
+    Instead, if we want to use a JS file with code for a gallery, for instance, we need to import the file locally
+    (with the script element). The local imports are read in sequence, as if they were a single JS file. 
+    -->
+    <!-- TO DO: is there JS functionality in global header and footer? 
+     -->
+    <script src="./scripts/kaleidoscope.js" defer></script>
+
+    <title>Kaleidoscope</title>
+</head>
+    
+<body>
+    <header>
+        <nav>
+        </nav>
+    </header>
+    <main>
+        <!-- Before I created a parent for the P5 app, 
+        this either shows above the dynamically created P5-canvas container, or under it (as if it has a lower z index). 
+        <p>text</p> 
+         -->
+        <div id="kaleidoscope-container"></div>
+    </main>
+</body>
+</html>
