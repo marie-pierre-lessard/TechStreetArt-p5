@@ -173,7 +173,7 @@ function setup() {
     let activityContainerByMariePierreLessard = createDiv();
     activityContainerByMariePierreLessard.id("activity-container");
     /* This avoids scroll (picture being wider than parent). 
-    The process is also taking too long acc. to the console, but it's a problem with the P5 library acc. to Bo. */
+    The process is also taking too long acc. to the console, but it's a problem with the P5 library acc. to teacher. */
     activityContainerByMariePierreLessard.height = windowHeight;
     /* Because the scroll bar takes a bit of room on a mobile phone 
     and because there is an inline margin and I want the look of having some padding inside of the activity container */
