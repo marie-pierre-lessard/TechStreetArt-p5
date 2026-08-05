@@ -7,7 +7,11 @@ It is a derivative work of the following P5 example, which I modified:
 
 This example and my derivative work both utilise the P5 JavaScript library, which has a [GNU Lesser General Public License (version 2.1)](https://p5js.org/copyright).
 
-The sources cited in this school assignment in order to demonstrate my thought process and research abilities include excerpts from P5 reference pages, which are protected by the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en). They also include a page from [W3 Schools](https://www.w3schools.com/js/js_random.asp), which explains the use of two built-in JavaScript methods (no original code belonging to W3 Schools was used in this assignment). 
+The sources cited in this school assignment in order to demonstrate my thought process and research abilities include: 
+* excerpts from P5 reference pages, which are protected by the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en);
+* a tip from the YouTube video [p5.js Tutorial | Getting Started with Creative Coding](https://www.youtube.com/watch?v=x1NxkEjfNtI&list=PL0beHPVMklwgMz4Z-mNp4_udo9mjBk7pn&index=1) by Patt Vira (a permissible use according to the current YouTube guidelines); 
+* the mention of a [W3 Schools page](https://www.w3schools.com/js/js_random.asp), which explains the use of two built-in JavaScript methods (the code demonstrating the basic use of such functions is not copyrightable according to EU guides);
+*  
 
 Several open-source [Google Fonts](https://fonts.google.com) were imported, and they are owned by their respective copyright holder. They are all licensed under the [SIL Open Font License, version 1.1](https://openfontlicense.org/open-font-license-official-text).
 
