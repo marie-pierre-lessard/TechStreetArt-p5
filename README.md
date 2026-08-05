@@ -1,7 +1,7 @@
 # TechStreetArt-p5
 A part of a class project at TechCollege
 
-The web app as a whole constitutes a styled art viewer with responsive image carousel, reset button, saving function for the user's art, some text content, and an art game. Everything outside of the enhanced kaleidoscope function was meant to be reused as the setting and components of other games. The enhanced kaleidoscope function is a derivative work of the following P5 example, which I modified in order to create a kaleidoscope that was complete with a colour picker. 
+The web app as a whole constitutes a styled art viewer with responsive image carousel/selector, reset button, saving function for the user's art, some text content, and an art game. Everything outside of the enhanced kaleidoscope function was meant to be reused as the setting and components of other games. The enhanced kaleidoscope function is a derivative work of the following P5 example, which I modified in order to create a kaleidoscope that was complete with a colour picker. 
 
 [Kaleidoscope](https://p5js.org/examples/Repetition-Kaleidoscope): Revised by [Kasey Lichtlyter](https://www.klich.co). Edited and maintained by p5.js Contributors and Processing Foundation. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
 
