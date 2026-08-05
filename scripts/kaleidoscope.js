@@ -72,10 +72,11 @@ function resetBtnClickedByMariePierreLessard() {
 };
 
 /* The function generateRandomIntegerByMariePierreLessard is code from my "storefront-opgave". 
-I just changed the size of the array. It generates a random index for an array. */
+I just changed the size of the array (based on the length of the image array). It generates a random index for an array. */
 function generateRandomIntegerByMariePierreLessard() {
     /* Returns a random integer from 0 to 132, inclusively
-    https://www.w3schools.com/js/js_random.asp */
+    https://www.w3schools.com/js/js_random.asp 
+    */
     let randomIntegerByMariePierreLessard = Math.floor(Math.random() * 133);
     console.log(randomIntegerByMariePierreLessard); 
     /* If I don't explicitely state that the returned result of the function is randomIntegerByMariePierreLessard, 
@@ -267,11 +268,12 @@ function setup() {
       );
     angleMode(DEGREES);  
 
-    /* Code to place the canvas inside of a parent is given here:
+    /* Code examples to place the canvas inside of a parent are given here:
     https://p5js.org/tutorials/creating-styling-html
     and
     https://forum.processing.org/two/discussion/13051/how-do-i-bind-p5-canvas-to-an-html-page.html 
     The sources indicate that the P5 JS library has child() and parent() methods, among others.
+    
     This looked like vulgarised JavaScript for beginners. As a consequence, I tried coding in ordinary JS, but it DIDN'T WORK.
     The following code gave the following error in the console:
     "Uncaught (in promise) TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'." 
