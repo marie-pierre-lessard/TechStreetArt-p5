@@ -7,6 +7,8 @@ It is a derivative work of the following P5 example, which I modified:
 
 This example and my derivative work both utilise the P5 JavaScript library, which has a [GNU Lesser General Public License (version 2.1)](https://p5js.org/copyright).
 
+The sources cited in this school assignment in order to demonstrate my thought process and research abilities include excerpts from P5 reference pages, which are protected by the license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en).
+
 Several open-source [Google Fonts](https://fonts.google.com) were imported, and they are owned by their respective copyright holder. They are all licensed under the [SIL Open Font License, version 1.1](https://openfontlicense.org/open-font-license-official-text).
 
 ## License
