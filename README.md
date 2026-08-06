@@ -19,7 +19,7 @@ The sources cited in this school assignment in order to demonstrate my thought p
 * the mention of a [W3 Schools page](https://www.w3schools.com/js/js_random.asp), which explains the use of two built-in JavaScript methods (the code demonstrating the basic use of such functions is also not copyrightable);
 * a [forum thread](https://forum.processing.org/two/discussion/13051/how-do-i-bind-p5-canvas-to-an-html-page.html) that illustrates the use of P5's `parent()` method better than the P5 reference pages. The link to the copyright notice of the Processing forum is [broken](https://processing.org/copyright.html), but this is a non-issue since I did not use any code snippet from that thread. The discussion just helped me understand how P5's `parent()` method works (facts/processes are not copyrightable).
 
-The pictures are no longer the class project's pictures. They are random pictures from [Unsplash](https://unsplash.com).
+The pictures are no longer the class project's pictures, which had different orientations, but the same number of pixels. The new pictures are picked randomly by [Unsplash](https://unsplash.com).
 
 Several open-source [Google Fonts](https://fonts.google.com) were imported, and they are owned by their respective copyright holder. They are all licensed under the [SIL Open Font License, version 1.1](https://openfontlicense.org/open-font-license-official-text).
 
