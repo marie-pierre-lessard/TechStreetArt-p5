@@ -184,7 +184,7 @@ function setup() {
     let canvasByMariePierreLessard = null;
 
     /* This is to keep the proportions of the canvas equal to the proportions of the pic it contains.
-    The pic is a background pic now, so equal propertions are necessary to avoid distortion. */
+    The pic is a background pic now, so equal proportions are necessary to avoid distortion. */
     /* P5 must course-correct because the activity container contains buttons, but those aren't counted as part of the height. */
     if (spotlightByMariePierreLessard.height > spotlightByMariePierreLessard.width) {
         let canvasHeightByMariePierreLessard = activityContainerByMariePierreLessard.height; 
