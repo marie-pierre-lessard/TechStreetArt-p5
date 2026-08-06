@@ -38,7 +38,7 @@ if they're called within preload(). Doing so ensures that assets are available w
 https://p5js.org/reference/p5/preload/ */
 function preload() {
     //Loading of default art to enhance (this is the art on spotlight, not the user's choice)
-    spotlightByMariePierreLessard = loadImage("https://unsplash.it/1000");
+    spotlightByMariePierreLessard = loadImage("https://unsplash.it/1282/721");
 
     /* "loadJSON()
     Loads a JSON file to create an Object. (...)
