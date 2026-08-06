@@ -53,7 +53,7 @@ function preload() {
     Because loadJSON is asynchronous, the easiest way to accomplish this is by putting JSON file in memory at initialisation 
     with preload(). 
     */
-    imgObjectByMariePierreLessard = loadJSON("../../../../shared/scripts/img_urls.json");
+    imgObjectByMariePierreLessard = loadJSON("./assets/img_urls.json");
     /* This prints the object. 
     console.log(imgObjectByMariePierreLessard); 
     */
